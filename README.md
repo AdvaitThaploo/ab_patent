@@ -1,4 +1,4 @@
-# ab_patent
+# antibody developability data from patents via LLMs
 
 Extracts antibody thermal-stability measurements (Tm) from patent full text and
 links them to protein sequences.
